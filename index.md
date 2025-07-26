@@ -1,1 +1,5 @@
-# hello
+# Документация Chatium в GetCourse
+
+## SDK
+
+## События
